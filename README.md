@@ -193,13 +193,6 @@ The forgot password feature includes:
 - Secure token generation for password reset
 - User-friendly reset process
 
-## Responsive Design
-
-- Mobile-first approach using TailwindCSS
-- Optimized for various screen sizes
-- Touch-friendly interface elements
-- Consistent user experience across devices
-
 ## Contributing
 
 1. Fork the repository
